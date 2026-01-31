@@ -18,7 +18,7 @@
     {
       "name": "cc.amase.vpm.aoc",
       "releases": [
-        "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/archive/refs/tags/0.1.0.zip"
+        "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/releases/download/0.1.0/AutoEditorOnlyConverter-0.1.0.zip"
       ]
     }
   ]
