@@ -1,28 +1,25 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+  "name": "vpm.amase.cc",
+  "id": "cc.amase.vpm",
+  "url": "https://vpm.amase.cc/index.json",
+  "author": {
+    "email": "cocoa@amase.cc",
+    "name": "AmaseCocoa",
+    "url": "https://amase.cc"
+  },
+  "description": "My Utility List",
+  "infoLink": {
+    "url": "https://github.com/AmaseCocoa/vrc",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "",
+  "githubRepos": [],
+  "packages": [
+    {
+      "name": "cc.amase.vpm.aoc",
+      "releases": [
+        "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/archive/refs/tags/0.1.0.zip"
+      ]
+    }
+  ]
 }
