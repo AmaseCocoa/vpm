@@ -19,8 +19,15 @@
       "name": "cc.amase.vpm.aoc",
       "releases": [
         "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/releases/download/0.1.0/AutoEditorOnlyConverter-0.1.0.zip",
-        "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/releases/download/v0.1.1/AutoEditorOnlyConverter-v0.1.1.zip"
+        "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/releases/download/v0.1.1/AutoEditorOnlyConverter-v0.1.1.zip",
+        "https://github.com/AmaseCocoa/AutoEditorOnlyConverter/releases/download/v0.2.0/AutoEditorOnlyConverter-v0.2.0.zip"
       ]
-    }
+    },
+    {
+      "name": "cc.amase.vpm.blueprint-switcher",
+      "releases": [
+        "https://github.com/AmaseCocoa/VRCBlueprintSwitcher/releases/download/v0.1.0/VRCBlueprintSwitcher-v0.1.0.zip"
+      ]
+    },
   ]
 }
